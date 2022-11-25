@@ -4,6 +4,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Look and feel living styleguide
 
+Link: https://tolga1999.github.io/look-and-feel-living-styleguide/
+
 ![image](https://user-images.githubusercontent.com/112856590/203951967-4753300b-17eb-483f-898f-7d7200a56907.png)
 
 ## Licentie
