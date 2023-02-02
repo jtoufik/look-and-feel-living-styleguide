@@ -5,18 +5,25 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Look and feel living styleguide
 
 
-## Inhoudsopgave
+## 📦 Inhoudsopgave
 
+  * [Beschrijving](#-beschrijving)
+  * [Kenmerken](#-kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
   
-## Beschrijving
+## 📝 Beschrijving 
 
   Met de hele buurtcampus squad hebben we samen een living styleguide gerealiseerd, waarbij ieder een element heeft behandeld. 
 
 🌐 Link:   https://tolga1999.github.io/look-and-feel-living-styleguide/
 
 ![image](https://user-images.githubusercontent.com/112856590/203951967-4753300b-17eb-483f-898f-7d7200a56907.png)
+
+
+## 📍 Kenmerken 
+
+* Ik heb het gedeelte van de buttons omschreven.
 
 ## Bronnen
 
